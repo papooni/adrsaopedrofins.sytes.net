@@ -2,7 +2,7 @@
 
 <body>
 
-<img align="middle" src="/img/logo_adr_17.jpg" width="50%" height="50%">
+<img style="display: block;text-align:center;width:50%;" src="/img/logo_adr_17.jpg" >
 </body>
 </html>
 
